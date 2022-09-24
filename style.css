@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 30px px;
+
+}
+p{
+    margin: 30px 0;
+    font-size: 25px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+div{
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgb(162, 240, 240);
+    padding: 50px;
+    box-shadow: 0px 0px 15px 20px rgba(0, 0, 0, 0.256);
+}
+img{
+    width: 100%;
+
+}
